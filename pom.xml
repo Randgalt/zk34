@@ -4,7 +4,7 @@
 
     <groupId>foo</groupId>
     <artifactId>foo</artifactId>
-    <version>3.3.0-el-365</version>
+    <version>1.0</version>
 
     <properties>
         <jdk-version>1.7</jdk-version>
